@@ -366,7 +366,7 @@ JS asynchronous memiliki 3 kunci utama
 1.	Callback 
 Callback : function yg dijadikan sebagai argumen
 Ketika sesuatu memerlukan waktu yang lama, maka dia akan masuk kedalam callback queue lalu menjalankan proses yang berada di belakangnya. Jika proses yg belakang sudah selesai, maka engine akan memeriksa yang ada didalam callback queue untuk dijalankan.
-https://github.com/Adimas88888/MSIB/blob/3361a24bbccaae63420d69406ef324be631fecd4/Screenshot_58.png
+ <br>![image](https://github.com/Adimas88888/TUGAS-MSIB/blob/3ff0bf2d039472fff5a083066df0d43bd0834345/Screenshot_58.png)
 
 	
 Contoh 
