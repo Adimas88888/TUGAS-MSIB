@@ -46,7 +46,7 @@ const getAllUser = async ()=> {
 -	Fetch
 •	Apa itu fetch?
 Fetch gunakan untuk mengambil data dan menampilkan data ke browser. Berfungsi untuk web dinamis yang datanya selalu berubah. Berikut merupakan ilustrasi mengenai fetch data api  
-(https://github.com/Adimas88888/TUGAS-MSIB/blob/6bd89a581a2d5267ce367ae057b126bc688487fd/Screenshot_60.png)
+<br>![GAMBAR](https://github.com/Adimas88888/TUGAS-MSIB/blob/6bd89a581a2d5267ce367ae057b126bc688487fd/Screenshot_60.png)
 
 •	Mengambil data API menggunakan fetch
 ```JavaScript
