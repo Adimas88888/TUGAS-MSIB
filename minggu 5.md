@@ -274,7 +274,7 @@ npm install --save-dev nodemon
 
 ### Basic Syntax ExpressJS
 
-![screenshot ExpressJS](https://github.com/Adimas88888/TUGAS-MSIB/blob/eedd07d53ff6f1c5498b9bdab5b3f2e60216d033/week-05-pict002.png)
+![screenshot ExpressJS](https://github.com/Adimas88888/TUGAS-MSIB/blob/66e220ae38b081ed0337cb97000e3de5952f7e2f/ExpressJS.PNG)
 diatas adalah basic syntax dari express JS. Kita akan menggunakan module express yang berisi routing dan listen.
 - Basic Routes
 
